@@ -52,3 +52,5 @@ The dashboard aims to reflect how businesses can:
 ## 🎬Video file showing dashboard interactivity 
 https://drive.google.com/file/d/1JtJsFRTsYvcAqm8t60ob41jNQDZloPUL/view?usp=sharing 
 
+Open to your feedback and reviews ! 
+
